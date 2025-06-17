@@ -18,7 +18,7 @@ This project uses Power BI and PostgreSQL to analyze Netflix’s content library
 Source: [Netflix Titles on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 ## Dashboard
-![Netflix Dashboard] (Netflix%20dashboard.png)
+![Netflix Dashboard](Netflix%20dashboard.png)
 
 ## Author
 Ena Luhadia
