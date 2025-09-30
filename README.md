@@ -1,6 +1,6 @@
 # Netflix Data Analysis Dashboard
 
-This project uses Power BI and PostgreSQL to analyze Netflix’s content library using a public dataset from Kaggle.
+This project uses Power BI to analyze Netflix’s content library using a public dataset from Kaggle.
 
 ## Tools Used
 - Power BI
